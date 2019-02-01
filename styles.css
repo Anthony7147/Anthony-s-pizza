@@ -14,7 +14,6 @@ body {
   justify-content: space-between;
   align-items: center;
   padding: 60px 100px;
-  margin: 
 }
 
 .left-column {
@@ -47,4 +46,9 @@ body {
 
 .address-wrapper {
   font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.banner-image img {
+  width: 280px;
+  height: 100%;
 }
